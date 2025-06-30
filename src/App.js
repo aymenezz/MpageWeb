@@ -1,23 +1,14 @@
-import logo from './logo.svg';
+import Desktop from "./component/Desktop";
 import './App.css';
+import Contral_kayboard from "./component/Contral_kayboard";
+import DragDropGenerator from "./component/DragDropGenerator";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Desktop />
+      <Contral_kayboard />
+
     </div>
   );
 }

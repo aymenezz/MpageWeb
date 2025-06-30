@@ -1,0 +1,37 @@
+{
+  "elements": [
+    {
+      "id": 1,
+      "name": "mneue",
+      "jsx": "<button itemID='1' draggable style='backgroundColor: '#4CAF50';color: 'white';padding: '8px 16px', ' >mneue </button>",
+      "style": {
+        "backgroundColor": "#4CAF50",
+        "color": "white",
+        "padding": "8px 16px",
+        "borderRadius": "4px"
+      }
+    },
+    {
+      "id": 2,
+      "name": "hi",
+      "jsx": "<button itemID='2' draggable style='backgroundColor: '#2196F3';color: 'white';padding: '8px 16px', ' >hi </button>",
+      "style": {
+        "backgroundColor": "#2196F3",
+        "color": "white",
+        "padding": "8px 16px",
+        "borderRadius": "4px"
+      }
+    },
+    {
+      "id": 3,
+      "name": "hie",
+      "jsx": "<button itemID='3' draggable style='backgroundColor: '#9C27B0';color: 'white';padding: '8px 16px', ' >hie </button>",
+      "style": {
+        "backgroundColor": "#9C27B0",
+        "color": "white",
+        "padding": "8px 16px",
+        "borderRadius": "4px"
+      }
+    }
+  ]
+}
